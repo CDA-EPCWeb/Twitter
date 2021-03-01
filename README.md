@@ -27,4 +27,4 @@ Neste gráfico é possível observar, nos meses iniciais, a tendência contrári
 
 Mais resultados  podem ser encontrados na [página da linha de pesquisa](http://covid.dcc.ufmg.br/linhas/web/) no portal do CDA.
 ## Membros da Equipe
-Marcelo Ganem, Bruno Esteves.
+[Marcelo Ganem](https://github.com/masganem), [Bruno Esteves](https://github.com/Bruh-Camps).
